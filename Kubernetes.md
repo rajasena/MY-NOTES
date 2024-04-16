@@ -166,10 +166,9 @@ $ kubectl explain pod
                      **REPLICA (group of POD's)**
 
 <u>There are 2 types of replica's</u>
+
 1.replication controller (based on equality labels)
 2.Replica set (based on both equality and set based labels)
-
-
 
 - replica helps to create multiple copys of the pods
 
