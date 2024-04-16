@@ -75,9 +75,13 @@ The master node has these 5 services
 
 -  to write a yaml file there are 4 important things
    1.api verison
+
    2.kind (defind what you are craeting ex:pod)
+
    3.meta data (its a data about data,name of the pod,it will also contain more info)
+
    4.specification (what are the specification of the pod define about your pod parts)
+   
 
 - defines/denotes ARRAY
 
