@@ -13,7 +13,7 @@ kube-proxy (
 container run time engine
 
 
-INSTALLATION : VIDEO 1 - 1:29:00
+**INSTALLATION : VIDEO 1 - 1:29:00**
 
 K8 wont support SWAP so we have to disable the SWAP for k8
 
