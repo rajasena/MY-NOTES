@@ -1,12 +1,12 @@
 The master node has these 5 services
 
--APT Server (Application programming interface, send req & get responce, Take the req from outside world
--ETCD (store key value)(database)
--controller  (maintains desired state of the workload, desire dstate = actual stae of the workload)
--scheduler ( is responsible to schedule the work load to desired host)
--Kubelet (it interfaces with CRE and it also ensures that the health of the work load is good
--kubernetes
--Worker node services
+- APT Server (Application programming interface, send req & get responce, Take the req from outside world
+- ETCD (store key value)(database)
+- controller  (maintains desired state of the workload, desire dstate = actual stae of the workload)
+- scheduler ( is responsible to schedule the work load to desired host)
+- Kubelet (it interfaces with CRE and it also ensures that the health of the work load is good
+- kubernetes
+- Worker node services
 
 kubelet ( this is like a manger talks with container)
 kube-proxy (
