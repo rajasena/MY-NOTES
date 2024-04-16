@@ -50,7 +50,7 @@ The master node has these 5 services
 
 ###############################################################################################
 
-# VIDEO 2
+#### VIDEO 2
 
 - to check the status of node = $ kubectl get node
 - more detailed info about node = $ kubectl get node -o wide (or) $ kubectl describe node
